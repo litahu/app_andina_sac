@@ -1,5 +1,7 @@
 # 🚀 Salesforce Sales Cloud Implementation: Comercializadora Andina SAC
 
+- **Analítica funcional** : Go-to-market del caso de negocio. [Ver](https://drive.google.com/drive/folders/1eEivp3GBhXkvCQpSfb23IXSVhw3PJlDw)<br>
+
 ## 📌 Sobre el Proyecto
 El proyecto resuelve la transición de una gestión comercial basada en Excel y correos electrónicos hacia un CRM centralizado. El objetivo es optimizar el seguimiento de prospectos, estructurar el pipeline de ventas y proveer analítica confiable para la toma de decisiones gerenciales.
 

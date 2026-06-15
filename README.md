@@ -48,9 +48,6 @@ El proceso de negocio se estructuró bajo un embudo de conversión estricto:
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_pipeline2.PNG" width=600px> </kbd>
    <br>
-  <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_pipeline_1.PNG" width=600px> </kbd>
-   <br>
-  Figura 1. Diagrama de relación de entidades
 </p> 
 
 <p align= "center">

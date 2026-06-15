@@ -9,11 +9,11 @@ Este repositorio contiene la documentación, el diseño de solución y la estrat
 
 ## 📌 Sobre el Proyecto
 
+El proyecto resuelve la transición de una gestión comercial basada en Excel y correos electrónicos hacia un CRM centralizado. El objetivo es optimizar el seguimiento de prospectos, estructurar el pipeline de ventas y proveer analítica confiable para la toma de decisiones gerenciales.
+
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/logo_large.PNG" width=300px> </kbd> <br>
 </p>
-
-El proyecto resuelve la transición de una gestión comercial basada en Excel y correos electrónicos hacia un CRM centralizado. El objetivo es optimizar el seguimiento de prospectos, estructurar el pipeline de ventas y proveer analítica confiable para la toma de decisiones gerenciales.
 
 ---
 

@@ -28,8 +28,9 @@ Para mantener las mejores prácticas de la plataforma y garantizar la escalabili
 
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_formularios.PNG" width=600px> </kbd> <br>
+</p> 
+<p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_app.PNG" width=600px> </kbd> <br>
-  Figura 1. Diagrama de relación de entidades
 </p> 
 
 
@@ -42,11 +43,19 @@ El proceso de negocio se estructuró bajo un embudo de conversión estricto:
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_data_0.PNG" width=600px> </kbd> 
    <br>
+</p> 
+
+<p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_pipeline2.PNG" width=600px> </kbd>
    <br>
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_pipeline_1.PNG" width=600px> </kbd>
    <br>
   Figura 1. Diagrama de relación de entidades
+</p> 
+
+<p align= "center">
+  <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_pipeline_1.PNG" width=600px> </kbd>
+   <br>
 </p> 
 
 
@@ -59,7 +68,6 @@ Para solucionar la falta de visibilidad del equipo de 8 vendedores y 1 gerente, 
 
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_dash.PNG" width=600px> </kbd> <br>
-  Figura 1. Diagrama de relación de entidades
 </p> 
 
 
@@ -79,7 +87,6 @@ Se implementaron las siguientes configuraciones dentro de una organización *Dev
 
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/resource_flujo.PNG" width=600px> </kbd> <br>
-  Figura 1. Diagrama de relación de entidades
 </p> 
 
 ---

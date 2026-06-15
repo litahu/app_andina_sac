@@ -3,11 +3,13 @@
 **Analítica funcional** : Go-to-market del caso de negocio. [Ver](https://drive.google.com/drive/folders/1eEivp3GBhXkvCQpSfb23IXSVhw3PJlDw)<br>
 **Identidad Corporativa** : Propuesta de Branding App [Ver](https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/Logo_Andina.png)<br>
 
+
+## 📌 Sobre el Proyecto
+
 <p align= "center">
   <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/logo_large.PNG" width=300px> </kbd> <br>
 </p>
 
-## 📌 Sobre el Proyecto
 El proyecto resuelve la transición de una gestión comercial basada en Excel y correos electrónicos hacia un CRM centralizado. El objetivo es optimizar el seguimiento de prospectos, estructurar el pipeline de ventas y proveer analítica confiable para la toma de decisiones gerenciales.
 
 Este repositorio contiene la documentación, el diseño de solución y la estrategia de configuración para la implementación de **Salesforce Sales Cloud** para **Comercializadora Andina SAC** (Distribución de Equipos Industriales). 

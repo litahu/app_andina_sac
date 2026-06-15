@@ -1,10 +1,10 @@
 # 🚀 Salesforce Sales Cloud Implementation: Comercializadora Andina SAC
 
 **Analítica funcional** : Go-to-market del caso de negocio. [Ver](https://drive.google.com/drive/folders/1eEivp3GBhXkvCQpSfb23IXSVhw3PJlDw)<br>
-**Identidad Corporativa** : Propuesta de Branding & App [Ver](https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/Logo_Andina.png)<br>
+**Identidad Corporativa** : Propuesta de Branding App [Ver](https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/Logo_Andina.png)<br>
 
 <p align= "center">
-  <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/logo_large.PNG" width=600px> </kbd> <br>
+  <kbd><img src="https://github.com/litahu/app_andina_sac/blob/main/resource_andina_sac/logo_large.PNG" width=300px> </kbd> <br>
 </p>
 
 ## 📌 Sobre el Proyecto
